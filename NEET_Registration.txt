@@ -1,0 +1,2 @@
+Alice 18 5/10/2006 1002 Male OBC 1234567891 alice@gmail.com 700 12000
+Bob 18 15/03/2006 1010 Male General 1234567892 bob@gmail.com 720 1
